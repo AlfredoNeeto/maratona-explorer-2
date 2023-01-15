@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center;">
   <img style="height: 40px; width: 40px; align-content: center;" src="link.png"/>
     <h1>links page</h1>
-    <p>Um página web de clone do linktree, feito usando HTML, CSS e JavaScript.</p>
+    <p>Uma página web de clone do linktree, feito usando HTML, CSS e JavaScript.</p>
     <p align="center">
       <img src="mobile.png">
     </p>
